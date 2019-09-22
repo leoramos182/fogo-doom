@@ -24,6 +24,7 @@ function renderFire(){
             html += '<td>'
             html += `<div class=pixel-index>${pixelIndex}</div>`
             html += '</td>'
+            
         }
         html += '</tr>'
     }
